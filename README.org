@@ -68,7 +68,7 @@ a folder called =./experiments/= which will include the generated
 execution trace, the verification l2 errors, and plots.
 
 
-* Forging Traces
+* Tutorial: Forging Traces
 
 Begin by opening the shell inside the docker container by running
 =./run_docker.sh=. This will provide a shell that looks like the
